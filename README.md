@@ -1,5 +1,8 @@
 # README for landing page take-home
 
+## Visit the landing page
+To explore the landing page, please visit https://scho7623.github.io/plaid-landing-page/
+
 ## Installation
 
 To set up this project and install its tools/dependencies, if any, run the following command(s):
